@@ -25,7 +25,7 @@ body {
 }
 
 .preview {
-    min-width: 800px;
+    width: 100%;
     min-height: 300px;
     padding: 20px;
     background-color: #fff;
